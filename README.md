@@ -57,8 +57,7 @@
   - Linked Lists
   - Stacks & Queues
   - Trees & Graphs
-  - Recursion & Backtracking
-  - Dynamic Programming
+  - Recursion 
 - Regularly solving problems on **LeetCode**
 
 🔗 LeetCode Profile: https://leetcode.com/VanshMishra2627/
