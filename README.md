@@ -2,7 +2,7 @@
 
 🚀 Aspiring MLOps Engineer | AI Systems Builder | Backend Developer  
 🧠 Focused on Machine Learning Infrastructure & Scalable Systems  
-📍 India  
+📍   
 
 ---
 
