@@ -38,11 +38,6 @@ Full write-ups and code: [github.com/VanshMishra26](https://github.com/VanshMish
 
 330+ problems solved on [LeetCode](https://leetcode.com/VanshMishra2627/) · 39-day max streak · 50 Days Badge (2026). Currently working on closing out gaps in tree-based problem patterns identified in a recent technical assessment.
 
-## GitHub stats
-
-![Vansh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VanshMishra26&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanshMishra26&layout=compact&theme=tokyonight)
-
 ---
 
 Open to Summer 2027 internships in ML/MLOps and backend systems.
