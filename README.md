@@ -1,4 +1,4 @@
-# Hi, I'm Vansh Mishra 👋
+# Hi, I'm Vansh Mishra
 
 B.Tech CS student at VIT Vellore (2024–2028) · Building ML infrastructure and scalable backend systems
 
