@@ -1,84 +1,48 @@
-# Hi, I'm Vansh 👋
+# Hi, I'm Vansh Mishra 👋
 
-🚀 Aspiring MLOps Engineer 
-🧠 Focused on Machine Learning Infrastructure & Scalable Systems  
-📍 India
+B.Tech CS student at VIT Vellore (2024–2028) · Building ML infrastructure and scalable backend systems
 
----
-
-## 🔬 About Me
-
-- 💻 Building production-ready FastAPI applications  
-- 🤖 Transitioning into ML & MLOps engineering  
-- 📊 Strong foundation in Data Structures & Algorithms  
-- 🧩 Active on LeetCode sharpening problem-solving skills  
-- 📚 Currently learning: ML systems design & deployment workflows  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vansh-mishra-portfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VanshMishra26)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/VanshMishra2627/)
 
 ---
 
-## 🛠 Tech Stack
+## What I'm working on
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- **Real-Time Sensor Anomaly Detection & Forecasting** — LSTM Autoencoder + Isolation Forest for anomaly detection on multivariate time-series sensor data, with live forecasting and a real-time WebSocket dashboard
+- **Asclepius** — a FastAPI medical triage service, built alongside a 16-week self-driven ML curriculum
+- Deepening ML systems design: experiment tracking, model serving, and containerized deployment workflows (Docker → CI/CD)
 
-### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
+## Selected work
 
-### 🤖 ML / AI
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+| Project | Description |
+|---|---|
+| **Real-Time Sensor Anomaly Detection & Forecasting** | LSTM Autoencoder anomaly detection + forecasting on multivariate time-series data, served via FastAPI/WebSocket with a live Next.js dashboard |
+| **Asclepius** | FastAPI-based medical triage backend |
+| **Multi-Level Cache Performance Analyzer** | Simulated cache hierarchies, achieved ~32% AMAT improvement |
+| **PM2.5 Source Apportionment** | Atmospheric research pipeline built during an IIT Kanpur internship |
+| **Void** | PDF processing backend — Flask, PyMuPDF, SQLite |
+| **Kaggle: Spaceship Titanic** | CatBoost model, public leaderboard score 0.8078 |
 
-### 🛠 Dev Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
+Full write-ups and code: [github.com/VanshMishra26](https://github.com/VanshMishra26)
 
----
+## Stack
 
-## 📊 GitHub Stats
+**Languages:** Python · C++ · C
+**Backend:** FastAPI · Pydantic · Uvicorn
+**ML/Data:** scikit-learn · NumPy · Pandas · PyTorch (LSTM work)
+**Tools:** Git · Docker · Pytest
+
+## Competitive programming
+
+330+ problems solved on [LeetCode](https://leetcode.com/VanshMishra2627/) · 39-day max streak · 50 Days Badge (2026). Currently working on closing out gaps in tree-based problem patterns identified in a recent technical assessment.
+
+## GitHub stats
+
 ![Vansh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VanshMishra26&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanshMishra26&layout=compact&theme=tokyonight)
 
-
 ---
 
-## 🧠 Data Structures & Algorithms
-
-- Strong foundation in:
-  - Arrays
-  - Linked Lists
-  - Stacks & Queues
-  - Trees & Graphs
-  - Recursion 
-- Regularly solving problems on **LeetCode**
-
-🔗 LeetCode Profile: https://leetcode.com/VanshMishra2627/
-
----
-
-## 🚀 Current Focus
-
-- Building ML-ready backend APIs  
-- Learning Docker for ML deployment  
-- Understanding model serving architecture  
-- Working toward full MLOps project deployment  
-
----
-
-## 🎯 2026 Goal
-
-Deploy an end-to-end ML system:
-- Model training  
-- Experiment tracking  
-- API serving  
-- Containerization  
-- CI/CD pipeline  
-
----
-
-⭐ I build systems that are scalable, reproducible, and production-ready.
+Open to Summer 2027 internships in ML/MLOps and backend systems.
